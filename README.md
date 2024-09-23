@@ -45,7 +45,7 @@ The user should be able to:
 
  ![The Study Wall gif](client/public/Images/The-Study-Wall.gif)
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Jose-lco/the-study-wall/issues)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jojo-lco/the-study-wall/issues)
 
 yes you can make contributions to this project and report any issues. If you would like to make a contribution to the application, the green badge above will direct you to the issues page for this repository and you can submit your issue there.
 
@@ -61,6 +61,6 @@ This project is licensed under ISC
 ## Authors
 
 **This project was created by:**
-* Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/the-study-wall.svg)](http://hits.dwyl.com/Jose-lco/the-study-wall)
+* jojo-lco [![HitCount](http://hits.dwyl.com/jojo-lco/the-study-wall.svg)](http://hits.dwyl.com/jojo-lco/the-study-wall)
   * Contact info: [Linkedin profile](https://www.linkedin.com/in/josephine-ndungu-a0a441160)
 
